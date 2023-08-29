@@ -1,6 +1,32 @@
 body {
-  font-family: "Raleway", "Roboto", sans-serif;
+  font-family: "Roboto", "Raleway", sans-serif;
+  color:#434455;
 }
+
+.main-header{
+  font-size: 56px;
+  font-weight: 700;
+  background-color:#2E2F42 ;
+  color:#FFF ; 
+}
+
+.sub-header{
+  font-size: 20px;
+  color:#2E2F42;
+  font-weight: 500;
+}
+
+.sub-header-desc{
+  font-size: 16px;
+  color: #434455;
+}
+
+.content-desc{
+  font-size: 36px;
+  color: #2E2F42;
+  font-weight: 700;
+}
+
 .order-service-button {
   background-color: #4d5ae5;
   color: #fff;
@@ -15,6 +41,7 @@ body {
   gap: 10px;
   border-radius: 4px;
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+  cursor: pointer;
 }
 .order-service-button:hover {
   background-color: #404bbf;
@@ -31,3 +58,48 @@ body {
   border-radius: 4px;
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
 }
+.header-list{
+color: #2E2F42;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0.32px;
+text-decoration: none
+}
+.header-list:hover{
+  color: #404BBF;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.32px;
+  }
+
+  .header-contacts{
+  color: #2E2F42;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.32px;
+  text-decoration: none;
+    } 
+  .header-contacts:hover,
+  .header-contacts:focus{
+  color: #404BBF;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.32px;
+  }
+
+  .footer-logo-desc{
+    font-size: 16px;
+    background-color:#2E2F42 ;
+    color:#FFF ;
+  }
+
+  
+  
