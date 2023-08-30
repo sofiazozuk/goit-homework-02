@@ -31,6 +31,9 @@ text-transform: uppercase;
   font-size: 56px;
   font-weight: 700;
   color:#FFF ; 
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
 }
 
 .sub-header{
@@ -56,8 +59,13 @@ text-transform: uppercase;
   font-size: 16px;
   font-weight: 500;
   cursor: pointer;
+  font-family:"Roboto", sans-serif;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+
 }
-.order-service-button:hover {
+.order-service-button:hover, 
+.order-service-button:focus{
   background-color: #404bbf;
   color: #fff;
   font-size: 16px;
