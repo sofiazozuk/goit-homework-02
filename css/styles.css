@@ -71,7 +71,7 @@ letter-spacing: 0.02em;
 
 }
 .header-list:hover,
-.header-contacts:focus{
+.header-list:focus{
   color: #404BBF;
   font-size: 16px;
   font-weight: 500;
