@@ -76,6 +76,9 @@ letter-spacing: 0.02em;
   font-size: 16px;
   font-weight: 500;
   }
+  .adress-decoration{
+    font-style: normal;
+  }
 
   .header-contacts{
   color: #2E2F42;
