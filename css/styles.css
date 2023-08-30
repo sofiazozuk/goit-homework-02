@@ -24,10 +24,12 @@ line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 }
+.section-decoration{
+  background-color:#2E2F42 ;
+}
 .main-header{
   font-size: 56px;
   font-weight: 700;
-  background-color:#2E2F42 ;
   color:#FFF ; 
 }
 
