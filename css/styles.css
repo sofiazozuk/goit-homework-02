@@ -4,6 +4,26 @@ body {
   background-color:#FFFFFF;
 }
 
+.main-logo{
+font-family: Raleway;
+color:#4D5AE5;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 1.17px; 
+letter-spacing: 0.03;
+text-transform: uppercase;
+}
+.main-logo-second{
+color: #2E2F42;
+font-family: Raleway;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 1.17px; 
+letter-spacing: 0.03;
+text-transform: uppercase;
+}
 .main-header{
   font-size: 56px;
   font-weight: 700;
