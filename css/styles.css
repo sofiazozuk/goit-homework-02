@@ -10,8 +10,8 @@ color:#4D5AE5;
 font-size: 18px;
 font-style: normal;
 font-weight: 700;
-line-height: 1.17px; 
-letter-spacing: 0.03;
+line-height: 1.17; 
+letter-spacing: 0.03em;
 text-transform: uppercase;
 }
 .main-logo-second{
@@ -20,8 +20,8 @@ font-family:"Raleway", sans-serif;
 font-size: 18px;
 font-style: normal;
 font-weight: 700;
-line-height: 1.17px; 
-letter-spacing: 0.03;
+line-height: 1.17; 
+letter-spacing: 0.03em;
 text-transform: uppercase;
 }
 .main-header{
