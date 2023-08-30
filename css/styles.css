@@ -27,6 +27,10 @@ text-transform: uppercase;
 .section-decoration{
   background-color:#2E2F42 ;
 }
+.hide-header{
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
 .main-header{
   font-size: 56px;
   font-weight: 700;
