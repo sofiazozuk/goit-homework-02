@@ -47,6 +47,8 @@ text-transform: uppercase;
 .sub-header-desc{
   font-size: 16px;
   color: #434455;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 
 .content-desc{
