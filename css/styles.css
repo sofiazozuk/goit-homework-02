@@ -30,9 +30,6 @@ text-transform: uppercase;
 .section-three-desc{
   background-color: #F4F4FD;
 }
-.image-decr{
-  background-color: #FFFFFF;
-}
 .main-header{
   font-size: 56px;
   font-weight: 700;
@@ -121,9 +118,9 @@ letter-spacing: 0.02em;
 
   .footer-logo-desc{
     font-size: 16px;
-    background-color:#2E2F42 ;
     color:#FFF ;
   }
-
-  
+  .footer-desc{
+    background-color:#2E2F42 ;
+  }
   
