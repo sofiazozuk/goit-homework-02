@@ -119,6 +119,9 @@ letter-spacing: 0.02em;
   .footer-logo-desc{
     font-size: 16px;
     color:#FFF ;
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
   }
   .footer-desc{
     background-color:#2E2F42 ;
