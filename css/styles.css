@@ -15,12 +15,6 @@ text-transform: uppercase;
 }
 .main-logo-second{
 color: #2E2F42;
-font-family:"Raleway", sans-serif;
-font-size: 18px;
-font-weight: 700;
-line-height: 1.17; 
-letter-spacing: 0.03em;
-text-transform: uppercase;
 }
 .section-decoration{
   background-color:#2E2F42 ;
@@ -76,9 +70,6 @@ text-transform: uppercase;
 .order-service-button:hover, 
 .order-service-button:focus{
   background-color: #404bbf;
-  color: #fff;
-  font-size: 16px;
-  font-weight: 500;
 }
 .header-list{
 color: #2E2F42;
@@ -92,8 +83,6 @@ letter-spacing: 0.02em;
 .header-list:hover,
 .header-list:focus{
   color: #404BBF;
-  font-size: 16px;
-  font-weight: 500;
   }
   .adress-decoration{
     font-style: normal;
@@ -110,8 +99,6 @@ letter-spacing: 0.02em;
   .header-contacts:hover,
   .header-contacts:focus{
   color: #404BBF;
-  font-size: 16px;
-  font-weight: 500;
   }
 
   .footer-logo-desc{
